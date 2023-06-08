@@ -1,3 +1,7 @@
+#Notes
+
+This is a local adaptation of SituSeq workflow available in [SituSeq](https://github.com/jkzorz/SituSeq)
+
 # SituSeq
 *SituSeq* is a workflow for the remote and offline analysis of Nanopore-generated 16S rRNA amplicon data. 
 

@@ -1,4 +1,4 @@
-#Notes
+# Notes
 
 This is a local adaptation of SituSeq workflow available in [SituSeq](https://github.com/jkzorz/SituSeq)
 
